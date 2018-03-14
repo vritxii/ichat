@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+config/
+ICHAT/
+ICHAT1/
+ICHAT_SEVER/
 # C extensions
 *.so
 
